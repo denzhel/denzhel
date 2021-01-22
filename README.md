@@ -16,12 +16,6 @@
 
 - ❤️ Fun fact: I'm a VIM junky  
   
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" align="center" height="" width="100" />
-</div>  
-  
-
 <br/>  
 
 ### <ins><div align="center">my Skillz</div></ins>  
