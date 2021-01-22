@@ -1,6 +1,8 @@
-### <ins><div align="center">about Me</div></ins>  
-- I'm Dennis, a full-time father 🍼, husband 🤵 and DevOps Engineer 💻
-  
+<div align="center">
+<img src="https://github.com/denzhel/denzhel/blob/main/me.png?raw=true" align="center" style="width: 20%" />
+</div> 
+
+### <ins><div align="center">about Me</div></ins>    
 - 😍 Passionate about Linux and Mac, monitoring, Kubernetes, Terraform, automation, open source communities, cloud infrastructures, IaC and more  
   
 - :panda_face: I'm currently working at BigPanda as a DevOps Engineer
