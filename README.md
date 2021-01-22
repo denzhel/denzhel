@@ -1,10 +1,9 @@
 ### <ins><div align="center">about Me</div></ins>  
-I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻
+- I'm Dennis, a full-time father 🍼, husband 🤵 and DevOps Engineer 💻
   
-
 - 😍 Passionate about Linux and Mac, monitoring, Kubernetes, Terraform, automation, open source communities, cloud infrastructures, IaC and more  
   
-- :panda_face: I'm currently working at BigPanda as a Devops Engineer
+- :panda_face: I'm currently working at BigPanda as a DevOps Engineer
 
 - 🧠 I’m currently learning everything, everywhere and anytime  
   
