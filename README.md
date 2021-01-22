@@ -3,8 +3,8 @@
 </div>  
   
 
-### <ins><div align="center">about Me
-I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻</div></ins>  
+### <ins><div align="center">about Me</div></ins>  
+<div align="center">I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻</div>
   
 
 - 😍 Passionate about Linux and Mac, monitoring, Kubernetes, Terraform, automation, open source communities, cloud infrastructures, IaC and more  
@@ -61,6 +61,3 @@ I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
