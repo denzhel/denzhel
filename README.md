@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/denzhel/denzhel/blob/main/greetings.gif?raw=true" align="center" style="width: 20%" />
-</div>  
-  
-
 ### <ins><div align="center">about Me</div></ins>  
 <div align="center">I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻</div>
   
