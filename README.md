@@ -1,5 +1,5 @@
 ### <ins><div align="center">about Me</div></ins>  
-<div align="center">I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻</div>
+I'm Dennis, a full-time father 🍼, husband 🤵💍👰 and DevOps 👨‍💻
   
 
 - 😍 Passionate about Linux and Mac, monitoring, Kubernetes, Terraform, automation, open source communities, cloud infrastructures, IaC and more  
