@@ -45,6 +45,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" />
 <img style="margin: 10px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" alt="vim" height="50" />
+
 
 
 </div>  
