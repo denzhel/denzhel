@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif
-" align="center" style="width: 100%" />
+<img src="https://github.com/denzhel/denzhel/blob/main/greetings.gif?raw=true" align="center" style="width: 20%" />
 </div>  
   
 
