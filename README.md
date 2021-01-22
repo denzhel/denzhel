@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/denzhel/denzhel/blob/main/me.png?raw=true" align="center" style="width: 20%" />
+<img src="https://github.com/denzhel/denzhel/blob/main/me.jpg?raw=true" align="center" style="width: 20%" />
 </div> 
 
 ### <ins><div align="center">about Me</div></ins>    
