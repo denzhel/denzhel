@@ -18,11 +18,8 @@
 
 - ❤️ Fun fact: I'm a VIM junky  
   
-<br/>  
 
 ### <ins><div align="center">my Skillz</div></ins>  
-  
-
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" />  
@@ -40,17 +37,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" />
-<img style="margin: 10px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform" height="50" />
+<img style="margin: 10px" src="https://www.datocms-assets.com/2885/1620155114-brandhcterraformprimaryattributedcolorwhite.svg" alt="Terraform" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" alt="vim" height="50" />
+</div>
 
-
-
-</div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=denzhel&&style=flat-square" align="center" />
-</div>  
+### <ins><div align="center">my awesomeGist</div></ins>  
+<div align="center">https://gist.github.com/denzhel</div>
 
 <br />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=denzhel&&style=flat-square" align="center" />
+</div>
