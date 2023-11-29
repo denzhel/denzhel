@@ -2,7 +2,9 @@
 <img src="https://github.com/denzhel/denzhel/blob/main/me.jpg?raw=true" align="center" style="width: 100%" />
 </div> 
 
-### <ins><div align="center">about Me</div></ins>    
+### <ins><div align="center">about Me</div></ins>
+- 🇮🇱 Proud Israeli 🇮🇱
+
 - 😍 Passionate about Linux and Mac, monitoring, Kubernetes, Terraform, automation, open source communities, cloud infrastructures, IaC and more  
   
 - :panda_face: I'm currently working at BigPanda as a DevOps Engineer
